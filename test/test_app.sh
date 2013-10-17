@@ -2,4 +2,4 @@
 ################ Quentin BONTEMPS ############################
 ################ Thomas MONGREVILLE ##########################
 echo "Copyright company - 2013"
-echo "Version 1.2"
+echo "Version 1.2.0-b"
